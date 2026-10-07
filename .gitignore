@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.bin
+*.apk
+*.pkg
+*.dylib
+*.zip
+gp5-diag-*/
